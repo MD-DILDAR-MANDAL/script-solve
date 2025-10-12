@@ -1,0 +1,1 @@
+Powershell version 2 scripts is supported by all .
